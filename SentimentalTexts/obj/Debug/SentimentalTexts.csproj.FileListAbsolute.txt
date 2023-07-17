@@ -1,0 +1,8 @@
+D:\SentimentalAnalysis\SentimentalTexts\bin\Debug\SentimentalTexts.exe.config
+D:\SentimentalAnalysis\SentimentalTexts\bin\Debug\SentimentalTexts.exe
+D:\SentimentalAnalysis\SentimentalTexts\bin\Debug\SentimentalTexts.pdb
+D:\SentimentalAnalysis\SentimentalTexts\obj\Debug\SentimentalTexts.csproj.AssemblyReference.cache
+D:\SentimentalAnalysis\SentimentalTexts\obj\Debug\SentimentalTexts.csproj.SuggestedBindingRedirects.cache
+D:\SentimentalAnalysis\SentimentalTexts\obj\Debug\SentimentalTexts.csproj.CoreCompileInputs.cache
+D:\SentimentalAnalysis\SentimentalTexts\obj\Debug\SentimentalTexts.exe
+D:\SentimentalAnalysis\SentimentalTexts\obj\Debug\SentimentalTexts.pdb
